@@ -1,6 +1,5 @@
 package lotto
 
-import lotto.util.Parser
 import org.junit.jupiter.api.Assertions
 import org.junit.jupiter.api.Test
 
